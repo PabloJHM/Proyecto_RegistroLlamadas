@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Proyecto_RegistroLlamadas</string>
+    <string name="action_settings">Settings</string>
+    <string name="entrantes">Entrantes</string>
+    <string name="salientes">Salientes</string>
+    <string name="perdidas">Perdidas</string>
+    <string name="ukUri">Tipo de uri no reconocida</string>
+
+    <string name="de">&#160;de&#160;</string>
+    <!-- Dias de la semana -->
+    <string name="dia1">Lunes</string>
+    <string name="dia2">Martes</string>
+    <string name="dia3">Miercoles</string>
+    <string name="dia4">Jueves</string>
+    <string name="dia5">Viernes</string>
+    <string name="dia6">Sabado</string>
+    <string name="dia7">Domingo</string>
+    <!-- Meses -->
+    <string name="mes1">Enero</string>
+    <string name="mes2">Febrero</string>
+    <string name="mes3">Marzo</string>
+    <string name="mes4">Abril</string>
+    <string name="mes5">Mayo</string>
+    <string name="mes6">Junio</string>
+    <string name="mes7">Julio</string>
+    <string name="mes8">Agosto</string>
+    <string name="mes9">Septiembre</string>
+    <string name="mes10">Octubre</string>
+    <string name="mes11">Noviembre</string>
+    <string name="mes12">Diciembre</string>
+
+
+</resources>
